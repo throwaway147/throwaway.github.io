@@ -1,6 +1,7 @@
 # **Links**
 # **------------------------------------------------------------------------------------------------------------------------**
-[Blog](https://bio.shadowsynth.xy)
+[Blog](https://bio.shadowsynth.xyz)
+[Symptoms](https://bio.shadowsynth.xyz/symptoms.html)
 [Images](https://bio.shadowsynth.xyz/images.html)
 
 # **------------------------------------------------------------------------------------------------------------------------**
